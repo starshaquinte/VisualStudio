@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWkbrifUFrx6m/x06b4tMJ4EFhwgVoMGv3arygCDYqe4Dttg7BT/N5g4jMK9Qw/C674mrqwzqZkdoAv5zbvXHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stars\\OneDrive\\Documents\\GitHub\\VisualStudio\\WebAppTutorial\\WebAppTutorial\\WebAppTutorial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stars\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
